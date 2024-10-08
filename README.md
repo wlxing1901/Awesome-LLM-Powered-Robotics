@@ -80,6 +80,9 @@ Contributions are welcome! Please feel free to submit a pull request to add more
   [[Paper](https://arxiv.org/abs/2409.12514)]
   [[Project Page](https://tiny-vla.github.io/)]
 
+* **LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation** [arXiv 2024]
+  [[Paper](https://arxiv.org/pdf/2410.05191)]
+
 ### 3D Information Integration
 
 * **3D-LLM: Injecting the 3D World into Large Language Models** [NeurIPS 2023]
